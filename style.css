@@ -1,0 +1,135 @@
+#intro{
+    color:white;
+    margin-top:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    box-sizing: border-box;
+    width:100%;
+}
+#navbar{
+    margin:2px;
+    padding:20px;
+    /* margin-top: 60px; */
+    margin-left:750px;
+}                
+#navbar a{
+    margin-left:5px;
+    margin-top: 20px;
+    padding: 5px;
+    display:block;
+    float: left;
+    text-decoration:none;
+    color:palevioletred;
+    font-size: 20px;
+    font-weight:300;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:black;
+    border-radius: 3px;
+    opacity:0.8px;
+}
+#navbar a:hover{
+    background-color: white;
+    border-radius: 3px;
+    opacity:0.8px;
+    /* border:1px solid white; */
+}
+h1,h2,p{
+    text-align:center;
+}
+.suggest{
+    background-color:black;
+    color:palevioletred;
+    margin-top:5px;
+    height:35px;
+    width:250px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-size:15px;
+    /* border:2px solid white; */
+}
+#side{
+    margin-top:5px;
+    position:fixed;
+    width:300px;
+    height:100%;
+    background-color:black;
+    border:2px solid palevioletred;
+    /* box-sizing: border-box; */
+}
+#header{
+    /* padding:300px; */
+    height:130px;
+    background-color:palevioletred;
+    
+}
+aside{
+    width:85%;
+    float:right;
+    margin-top:50px;
+}
+#wel{
+    margin-left:650px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: palevioletred;
+    border-radius: 5px;
+    width:420px;
+    padding:5px;
+    color:black;
+}
+
+img{
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    margin-left:580px;
+}
+#but{
+    margin-top:10px;
+    margin-left:250px;
+    
+}
+#contact{
+    color:white;
+}
+#icon{
+    margin-top:30px;
+    margin-left: 140px;
+    width:30px;
+    padding: 10px;
+    height:20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+}
+#icon1{
+    margin-top:30px;
+    margin-left: 650px;
+    width:30px;
+    padding: 10px;
+    height:20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+}
+.back{
+    background-color: palevioletred;
+    border-radius: 5px;
+    margin-left: 50px;
+    width:200px;
+    height:20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.back1{
+    background-color: palevioletred;
+    border-radius: 5px;
+    margin-left: 520px;
+    width:250px;
+    height:20px;
+    padding: 10px;
+    font-size: 20px;
+}
+#popup{
+    width:500px;
+    height:500px;
+}
